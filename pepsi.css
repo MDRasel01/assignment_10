@@ -1,0 +1,68 @@
+
+
+
+.navbar-brand img{
+    width: 54%;
+    height: auto;
+}
+
+
+
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding-right: 50px;
+}
+
+.banner_text_left h2, .banner_text_left h1{
+ font-size: 100px;
+ font-weight: bold;
+
+}
+
+.banner_text_left h2{
+    margin-top: 100px;
+    font-size: 50px;
+
+}
+
+.banner_section{
+    color: #ffffff;
+}
+
+.banner_text_left button{
+    border: none;
+    border-radius: 20px;
+  padding: 7px 30px;
+  margin-top: 20px;
+}
+
+.the3_photo img{
+    height: 100px;
+}
+
+.the3_photo img:hover{
+transform: translateY(-15px);
+transition: all .5s ease;
+}
+
+.the3_photo{
+    text-align: center;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.the3_photo:visited{
+    margin-bottom: 20px;
+}
+
+.banner_section{
+    padding: 20px 0px;
+}
+
+.banner_text_right img{
+    margin-left: 50px;
+}
